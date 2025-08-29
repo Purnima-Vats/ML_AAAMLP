@@ -1,0 +1,21 @@
+# Core scientific / data stack
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning / AI
+scikit-learn
+tensorflow
+torch
+nltk
+
+# Web / APIs / utility
+flask
+requests
+python-dotenv
+
+# Dev / Docker (optional if you use Docker)
+docker
+docker-compose
